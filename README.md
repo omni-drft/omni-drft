@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm coding
+### I'm coding ;)
 
 <!--
 **omni-drft/omni-drft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
