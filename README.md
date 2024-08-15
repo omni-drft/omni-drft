@@ -1,5 +1,7 @@
-### Hi there 👋
-### I'm coding ;)
+<p align="center">
+  <img src="readmeBanner.png" width="650" title="logo">
+</p>
+
 
 <!--
 **omni-drft/omni-drft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
