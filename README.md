@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">I'm Piotr. Software developer from Poland. I love low level programming. I code primarily in C and C++, but all well known technologies are listed below.<br><br>- 🔭 I’m currently working on alg-lib library and proto-engine project.<br>- ⚡ In my free time I train martial arts and running.</h3>
+<h3 align="left">I'm Piotr. Software developer from Poland. I love low level programming. I code primarily in C and C++, but all well known technologies are listed below.<br><br>- 🔭 I’m currently working on archimedes game engine and hypixel skyblock gp software<br>- ⚡ In my free time I train martial arts and running.</h3>
 
 ###
 
