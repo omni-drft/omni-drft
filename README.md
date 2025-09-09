@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="baner2.png" width="1000" title="logo">
-</p>
 
 <h1 align="center">hey there 👋</h1>
 
@@ -17,10 +14,9 @@
 
 ###
 
-<h3 align="left">I'm Piotr. Software developer from Poland. I love low level programming. I code primarily in C and C++. I’m currently working on [Archimedes Game Engine](https://github.com/AGH-Code-Industry/archimedes) and multiple [emulators](https://github.com/omni-drft/CHIP-8).</h3>
-<h4>
-🤼‍♂️ In my free time I train freestyle wrestling and running. <br>
-🏔️ I love hiking and spending time outdoors.
-</h4>
+### I'm Piotr. Software developer from Poland. I love low level programming. I code primarily in C and C++. I’m currently working on [Archimedes Game Engine](https://github.com/AGH-Code-Industry/archimedes) and multiple [emulators](https://github.com/omni-drft/CHIP-8).
+
+### 🤼‍♂️ In my free time I train freestyle wrestling and running. <br>
+### 🏔️ I love hiking and spending time outdoors.
 
 
